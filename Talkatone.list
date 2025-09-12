@@ -1,4 +1,4 @@
-# talkatone 去广告
+# talkatone  去广告
 DOMAIN-KEYWORD,googleads,REJECT-DROP
 DOMAIN-SUFFIX,aax.amazon-adsystem.com,REJECT
 DOMAIN-SUFFIX,aax-fe.amazon-adsystem.com,REJECT
